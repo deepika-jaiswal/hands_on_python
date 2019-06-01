@@ -1,0 +1,6 @@
+n1=input("enter first no.")
+n2=input("enter second no.")
+print(float(n1)+float(n2))
+print(float(n1)*float(n2))
+print(float(n1)-float(n2))
+print(float(n1)/float(n2))

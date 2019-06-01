@@ -1,0 +1,5 @@
+cow=int(input())
+chick=int(input())
+pig=int(input())
+legs=(cow*4)+(chick*2)+(pig*4)
+print("no. of legs is equals to",legs)
