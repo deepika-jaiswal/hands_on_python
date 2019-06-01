@@ -1,4 +1,4 @@
 n= int(input())
 li=list(map(int,input().split()))
 li.sort()
-print(li[-1]*li[-2])
+print(li[n-1]*li[n-2])
